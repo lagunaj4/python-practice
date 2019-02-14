@@ -1,3 +1,4 @@
+#Create a bar chart histogram of song lyrics
 import plotly
 from plotly import offline
 from plotly.offline import iplot, init_notebook_mode
